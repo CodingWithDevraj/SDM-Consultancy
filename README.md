@@ -1,70 +1,51 @@
-# Getting Started with Create React App
+🌐 SDM Consultancy Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A modern consultancy platform designed to showcase services, manage client inquiries, and provide a responsive user experience.
 
-## Available Scripts
+🚀 Features
 
-In the project directory, you can run:
+Responsive and user-friendly interface
 
-### `npm start`
+Service showcase with dynamic content
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Client inquiry & contact form integration
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Secure backend for data management
 
-### `npm test`
+Deployed for real-world accessibility
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+🛠️ Tech Stack
 
-### `npm run build`
+Frontend: React, HTML5, CSS3, JavaScript (ES6+)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Backend: Node.js, Express.js
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Database: MongoDB
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Version Control: Git & GitHub
 
-### `npm run eject`
+📂 Project Structure
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+sdm-consultancy/ │-- frontend/ # React frontend code
+│-- backend/ # Express.js backend API
+│-- models/ # Database schemas (MongoDB)
+│-- public/ # Static files and assets
+│-- README.md # Documentation
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+📸 Screenshots
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+![WhatsApp Image 2025-09-03 at 23 45 30_49987115](https://github.com/user-attachments/assets/e56d230c-635c-4df5-b1b8-a5cb9fa2f3d4)
+![WhatsApp Image 2025-09-03 at 23 45 30_f572209b](https://github.com/user-attachments/assets/d5dea665-c9e9-49c7-835d-2bcc37684a6b)
+![WhatsApp Image 2025-09-03 at 23 45 30_3dd5256a](https://github.com/user-attachments/assets/4b9125c8-9373-44d9-93b9-7b151c0968f2)
+![WhatsApp Image 2025-09-03 at 23 45 31_13722e14](https://github.com/user-attachments/assets/4895b55c-81c7-4692-8213-d997ac0f6ec8)
+![WhatsApp Image 2025-09-03 at 23 45 31_5e853880](https://github.com/user-attachments/assets/4661c8c9-1cc9-40de-9e95-0622e70ac475)
+![WhatsApp Image 2025-09-03 at 23 45 32_ae7b769d](https://github.com/user-attachments/assets/d2e6cbfa-7e6d-4a00-9094-23a8969a70d3)
+![WhatsApp Image 2025-09-03 at 23 45 32_16d24272](https://github.com/user-attachments/assets/0b2ff36a-3cdb-4446-933d-218709ed5ba8)
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
